@@ -1,0 +1,95 @@
+html
+{
+font-family: Source Sans Pro, sans serif;
+
+}
+body{
+	background-image: url(images/environment-background-c2ut7fq0hpz6my6c.jpg) !important;
+}
+.num
+{
+	width: 5ch;
+}
+
+.power
+{
+	width: 7ch;
+	text-align: right;
+}
+
+.fieldSet
+{
+	display:inline-block;
+}
+
+table
+{
+	border: 2px solid black;
+}
+
+th,td
+{
+	border-bottom: 1px solid #DDD;
+}
+
+tr:hover
+{
+	background-color: #B58F8F !important;
+}
+
+tr:nth-child(even) 
+{
+	background-color: #F2F2F2;
+}
+
+select 
+{
+    width: 20ch;
+    padding: 4px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
+
+input
+{
+    border: 1px solid black;
+    border-radius: 4px;
+	padding: 3px;
+}
+nav .navbar-brand{
+ font-size: xx-large;
+ font-family: cursive;
+}
+nav div .country{
+	font-size: x-large;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+	align-items: center;
+	text-align: center;
+}
+form table{
+	margin-left: auto;
+	margin-right: auto;
+	color: #105c06;
+	
+}
+form table th,td{
+	padding: 15px;
+}
+form .percentage{
+	border: white 5px solid;
+	width: fit-content;
+	margin: auto;
+	padding: 20px;
+	color: #0ffa55;
+}
+form .result{
+	border: white 5px solid;
+	width: fit-content;
+	margin: auto;
+	padding: 20px;
+	color: #0ffa55;
+	
+}
